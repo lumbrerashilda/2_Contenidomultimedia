@@ -1,0 +1,26 @@
+body{
+    background-image: -moz-element(video.jpg);  
+}
+
+section {
+    text-align: center;
+    border-inline-end-color: khaki;
+}
+
+h1{
+    text-align: center;  
+
+}
+h2{
+    text-align: center;
+}
+h3{
+    -moz-text-decoration-line: line-through;
+    text-decoration-color: currentColor;
+    
+    text-align: center;
+
+}
+h4{
+    border: 4px;
+}
